@@ -1,0 +1,13 @@
+{
+  "name": "google-maps-marketing-scraper",
+  "version": "1.0.0",
+  "description": "Extracts detailed information for marketing and advertising agencies from Google Maps.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.2.0"
+  }
+}
